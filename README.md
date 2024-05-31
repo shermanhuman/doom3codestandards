@@ -265,11 +265,13 @@
 
 ## id Studio Names
 
-- `id<name>Dlg`      // dialog class
-- `id<name>Ctrl`     // dialog control class
-- `id<name>Frm`      // frame window
-- `id<name>View`     // view window
-- `id<name>`         // any other class
+```
+id<name>Dlg      // dialog class
+id<name>Ctrl     // dialog control class
+id<name>Frm      // frame window
+id<name>View     // view window
+id<name>         // any other class
+```
 
 ## File Names
 
